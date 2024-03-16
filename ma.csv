@@ -1,0 +1,104 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Casablanca,33.5333,-7.5833,Morocco,MA,Casablanca-Settat,admin,4370000,3499000
+El Kelaa des Srarhna,32.0481,-7.4083,Morocco,MA,Marrakech-Safi,,1450021,51404
+Fès,34.0433,-5.0033,Morocco,MA,Fès-Meknès,admin,1112072,1112072
+Tangier,35.7767,-5.8039,Morocco,MA,Tanger-Tétouan-Al Hoceïma,admin,947952,947952
+Marrakech,31.6300,-8.0089,Morocco,MA,Marrakech-Safi,admin,928850,928850
+Sale,34.0333,-6.8000,Morocco,MA,Rabat-Salé-Kénitra,,850403,850403
+Mediouna,33.4500,-7.5100,Morocco,MA,Casablanca-Settat,,822851,822851
+Rabat,34.0209,-6.8416,Morocco,MA,Rabat-Salé-Kénitra,primary,572717,572717
+Meknès,33.8950,-5.5547,Morocco,MA,Fès-Meknès,,520428,520428
+Oujda-Angad,34.6867,-1.9114,Morocco,MA,Oriental,admin,494252,494252
+Kenitra,34.2500,-6.5833,Morocco,MA,Rabat-Salé-Kénitra,,431282,431282
+Agadir,30.4333,-9.6000,Morocco,MA,Souss-Massa,admin,421844,421844
+Tétouan,35.5667,-5.3667,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,380787,380787
+Taourirt,34.4169,-2.8850,Morocco,MA,Oriental,,321876,321876
+Temara,33.9267,-6.9122,Morocco,MA,Rabat-Salé-Kénitra,,313510,313510
+Safi,32.2833,-9.2333,Morocco,MA,Marrakech-Safi,,308508,308508
+Khénifra,32.9394,-5.6675,Morocco,MA,Béni Mellal-Khénifra,,228567,117510
+Laâyoune,27.1536,-13.2033,Morocco,MA,Laâyoune-Sakia El Hamra,,217732,217732
+Mohammedia,33.6833,-7.3833,Morocco,MA,Casablanca-Settat,,208612,208612
+Kouribga,32.8833,-6.9167,Morocco,MA,Béni Mellal-Khénifra,,196196,196196
+El Jadid,33.2333,-8.5000,Morocco,MA,Casablanca-Settat,,194934,194934
+Béni Mellal,32.3394,-6.3608,Morocco,MA,Béni Mellal-Khénifra,admin,192676,192676
+Ait Melloul,30.3342,-9.4972,Morocco,MA,Souss-Massa,,171847,171847
+Nador,35.1667,-2.9333,Morocco,MA,Oriental,,161726,161726
+Taza,34.2167,-4.0167,Morocco,MA,Fès-Meknès,,148456,148456
+Settat,33.0000,-7.6167,Morocco,MA,Casablanca-Settat,,142250,142250
+Barrechid,33.2667,-7.5833,Morocco,MA,Casablanca-Settat,,136634,136634
+Al Khmissat,33.8167,-6.0667,Morocco,MA,Rabat-Salé-Kénitra,,131542,131542
+Inezgane,30.3658,-9.5381,Morocco,MA,Souss-Massa,,130333,130333
+Ksar El Kebir,35.0090,-5.9000,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,126617,126617
+Larache,35.1833,-6.1500,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,125008,125008
+Guelmim,28.9833,-10.0667,Morocco,MA,Guelmim-Oued Noun,admin,118318,118318
+Berkane,34.9167,-2.3167,Morocco,MA,Oriental,,109237,109237
+Khemis Sahel,35.2500,-6.0833,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,107371,107371
+Ad Dakhla,23.7081,-15.9456,Morocco,MA,Dakhla-Oued Ed-Dahab,,106277,106277
+Bouskoura,33.4489,-7.6486,Morocco,MA,Casablanca-Settat,,103026,103026
+Al Fqih Ben Çalah,32.5000,-6.5333,Morocco,MA,Béni Mellal-Khénifra,,102019,102019
+Oued Zem,32.8667,-6.5667,Morocco,MA,Béni Mellal-Khénifra,,95267,95267
+Sidi Slimane,34.2600,-5.9200,Morocco,MA,Rabat-Salé-Kénitra,,92989,92989
+Errachidia,31.9319,-4.4244,Morocco,MA,Drâa-Tafilalet,admin,92374,92374
+Guercif,34.2333,-3.3667,Morocco,MA,Oriental,,90880,90880
+Oulad Teïma,30.4000,-9.2167,Morocco,MA,Souss-Massa,,89387,89387
+Ben Guerir,32.2300,-7.9500,Morocco,MA,Marrakech-Safi,,88626,88626
+Sefrou,33.8300,-4.8300,Morocco,MA,Fès-Meknès,,79887,79887
+Fnidq,35.8500,-5.3500,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,77436,77436
+Sidi Qacem,34.2167,-5.7000,Morocco,MA,Rabat-Salé-Kénitra,,75672,75672
+Moulay Abdallah,33.1978,-8.5883,Morocco,MA,Casablanca-Settat,,74671,74671
+Youssoufia,32.2500,-8.5333,Morocco,MA,Marrakech-Safi,,67628,67628
+Martil,35.6167,-5.2667,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,64355,64355
+Aïn Harrouda,33.6372,-7.4483,Morocco,MA,Casablanca-Settat,,62420,62420
+Skhirate,33.8500,-7.0300,Morocco,MA,Rabat-Salé-Kénitra,,59775,59775
+Ouezzane,34.8000,-5.5833,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,59606,59606
+Sidi Yahya Zaer,33.7105,-6.8831,Morocco,MA,Rabat-Salé-Kénitra,,57790,57790
+Al Hoceïma,35.2472,-3.9322,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,56716,56716
+M’diq,35.6858,-5.3253,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,56227,56227
+Sidi Bennour,32.6500,-8.4333,Morocco,MA,Casablanca-Settat,,55815,55815
+Midalt,32.6800,-4.7300,Morocco,MA,Drâa-Tafilalet,,55304,55304
+Azrou,33.4417,-5.2247,Morocco,MA,Fès-Meknès,,54350,54350
+My Drarga,30.3800,-9.4800,Morocco,MA,Souss-Massa,,50946,50946
+Ain El Aouda,33.8111,-6.7922,Morocco,MA,Rabat-Salé-Kénitra,,49816,49816
+Beni Yakhlef,33.6555,-7.3221,Morocco,MA,Casablanca-Settat,,48338,48338
+Ad Darwa,33.4167,-7.5333,Morocco,MA,Casablanca-Settat,,47719,47719
+Al Aaroui,35.0029,-3.0311,Morocco,MA,Oriental,,47599,47599
+Qasbat Tadla,32.6000,-6.2667,Morocco,MA,Béni Mellal-Khénifra,,47343,47343
+Boujad,32.7667,-6.4000,Morocco,MA,Béni Mellal-Khénifra,,46893,46893
+Jerada,34.3117,-2.1636,Morocco,MA,Oriental,,43506,43506
+Mrirt,33.1667,-5.5667,Morocco,MA,Béni Mellal-Khénifra,,42730,42730
+El Aïoun,34.5852,-2.5056,Morocco,MA,Oriental,,41832,41832
+Azemmour,33.2878,-8.3422,Morocco,MA,Casablanca-Settat,,40920,40920
+Temsia,30.3600,-9.4140,Morocco,MA,Souss-Massa,,40780,40780
+Zagora,30.3306,-5.8381,Morocco,MA,Drâa-Tafilalet,,40067,40067
+Ait Ourir,31.5644,-7.6628,Morocco,MA,Marrakech-Safi,,39108,39108
+Aziylal,31.9669,-6.5694,Morocco,MA,Béni Mellal-Khénifra,,38520,38520
+Sidi Yahia El Gharb,34.3058,-6.3058,Morocco,MA,Rabat-Salé-Kénitra,,37979,37979
+Biougra,30.2144,-9.3708,Morocco,MA,Souss-Massa,,37933,37933
+Zaïo,34.9333,-2.7333,Morocco,MA,Oriental,,35806,35806
+Aguelmous,33.1500,-5.8333,Morocco,MA,Béni Mellal-Khénifra,,35626,35626
+El Hajeb,33.6928,-5.3711,Morocco,MA,Fès-Meknès,,35282,35282
+Zeghanghane,35.1500,-3.0000,Morocco,MA,Oriental,,34025,34025
+Imzouren,35.1500,-3.8500,Morocco,MA,Tanger-Tétouan-Al Hoceïma,,33852,33852
+Tit Mellil,33.5533,-7.4822,Morocco,MA,Casablanca-Settat,,32782,32782
+Mechraa Bel Ksiri,34.5600,-5.9500,Morocco,MA,Rabat-Salé-Kénitra,,31497,31497
+Al ’Attawia,31.8347,-7.3125,Morocco,MA,Marrakech-Safi,,30315,30315
+Demnat,31.7311,-7.0361,Morocco,MA,Béni Mellal-Khénifra,,29504,29504
+Arfoud,31.4361,-4.2328,Morocco,MA,Drâa-Tafilalet,,29279,29279
+Tameslouht,31.5000,-8.1000,Morocco,MA,Marrakech-Safi,,28978,28978
+Bou Arfa,32.5309,-1.9650,Morocco,MA,Oriental,,28846,28846
+Sidi Smai’il,32.8167,-8.5000,Morocco,MA,Casablanca-Settat,,28733,28733
+Souk et Tnine Jorf el Mellah,34.4833,-5.5169,Morocco,MA,Rabat-Salé-Kénitra,,28681,28681
+Mehdya,34.2597,-6.6500,Morocco,MA,Rabat-Salé-Kénitra,,28636,28636
+Aïn Taoujdat,33.9333,-5.2167,Morocco,MA,Fès-Meknès,,28288,28288
+Chichaoua,31.5333,-8.7667,Morocco,MA,Marrakech-Safi,,27869,27869
+Tahla,34.0500,-4.4200,Morocco,MA,Fès-Meknès,,27729,27729
+Oulad Yaïch,32.4167,-6.3333,Morocco,MA,Béni Mellal-Khénifra,,27476,27476
+Moulay Bousselham,34.8786,-6.2933,Morocco,MA,Rabat-Salé-Kénitra,,26608,26608
+Iheddadene,35.1500,-2.9667,Morocco,MA,Oriental,,26582,26582
+Missour,33.0500,-3.9833,Morocco,MA,Fès-Meknès,,25584,25584
+Zawyat ech Cheïkh,32.6414,-5.9206,Morocco,MA,Béni Mellal-Khénifra,,25388,25388
+Bouknadel,34.1333,-6.7333,Morocco,MA,Rabat-Salé-Kénitra,,25255,25255
+Oulad Tayeb,33.9598,-4.9954,Morocco,MA,Fès-Meknès,,24594,24594
+Oulad Barhil,30.6408,-8.4750,Morocco,MA,Souss-Massa,,24288,24288
+Bir Jdid,33.3737,-8.0002,Morocco,MA,Casablanca-Settat,,24136,24136
+Tifariti,26.1580,-10.5670,Morocco,MA,Laâyoune-Sakia El Hamra,primary,3000,3000
